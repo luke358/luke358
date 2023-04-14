@@ -6,6 +6,9 @@
   </samp>
 </p>
 
+![luke358's github status](https://github-readme-stats.vercel.app/api?username=luke358&show_icons=true&count_private=true&&hide=stars&theme=cobalt)
+
+
 <!--
 **luke358/luke358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
