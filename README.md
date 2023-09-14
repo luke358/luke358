@@ -4,7 +4,16 @@
   <samp>
     <a href="https://twitter.com/study_zhu">tweets</a>
   </samp>
+    <samp>
+    <a href="https://www.zhihu.com/people/zxc-44-40">知乎</a>
+  </samp>
+   <samp>
+    <a href="https://juejin.cn/user/4380074725345959">掘金</a>
+  </samp>
 </p>
+<ul>
+  <li>😄 Ping me by <a target="_blank" href="mailto:qq1494135711@gmail.com">Email</a> or WeChat: zxc1494135711</li>
+</ul>
 
 ![luke358's github status](https://github-readme-stats.vercel.app/api?username=luke358&show_icons=true&count_private=true&&hide=stars&theme=cobalt)
 
