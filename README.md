@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://twitter.com/study_zhu">tweets</a>
+    <a href="https://twitter.com/luke358_">tweets</a>
   </samp>
     <samp>
     <a href="https://www.zhihu.com/people/zxc-44-40">知乎</a>
