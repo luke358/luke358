@@ -12,7 +12,7 @@
   </samp>
 </p>
 <ul>
-  <li>😄 Ping me by <a target="_blank" href="mailto:qq1494135711@gmail.com">Email</a> or WeChat: LukeZhu01</li>
+  <li>😄 Ping me by <a target="_blank" href="mailto:qq1494135711@gmail.com">Email</a> </li>
 </ul>
 
 ![luke358's github status](https://github-readme-stats.vercel.app/api?username=luke358&show_icons=true&count_private=true&&hide=stars&theme=cobalt)
